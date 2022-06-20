@@ -4,6 +4,8 @@ public class A {
 		System.out.println("Hello A.java");
 		System.out.println("Change A.java in master branch");
 		System.out.println("Change A.java in devB branch");
+		System.out.println("Hello A.java");
+		System.out.println("Change A.java in devC branch");
 	}
 }
 
